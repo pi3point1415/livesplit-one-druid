@@ -1,3 +1,5 @@
+This is a slightly modified version of the livesplit frontend that increments numbers in brackets in your split names when you split, allowing for keeping track of the number of attempts for each segment. It relies on a slightly modified livesplit-core available at [https://github.com/pi3point1415/livesplit-core](https://github.com/pi3point1415/livesplit-core).
+
 # LiveSplit One Druid
 
 A prototype Desktop version of LiveSplit One, using the Druid framework and the multiplatform
